@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_URL=https://github.com/remdex/livehelperchat/archive/master.zip
+SOURCE_SUM=2ce1cd552878a3bba7b09c0423128d725386a5bf147983bca0588b4f654ed950707cebd3034d9ef409c747e7170bd9fa6375c1b3f40fcec378d899c3f40eeda6
+SOURCE_SUM_PRG=sha512sum
+SOURCE_FORMAT=.zip
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FILENAME=lhc_web
 SOURCE_EXTRACT=true
